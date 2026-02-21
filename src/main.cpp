@@ -55,4 +55,5 @@ void loop() {
 
     // TODO 8:
     // Add small delay (200–500ms)
+    delay(300);
 }
