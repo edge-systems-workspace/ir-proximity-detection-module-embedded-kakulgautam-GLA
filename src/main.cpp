@@ -31,6 +31,7 @@ void setup() {
 
     // TODO 5:
     // Print system initialization message
+    Serial.println("IR Obstacle Detection System Initialized");
 }
 
 void loop() {
