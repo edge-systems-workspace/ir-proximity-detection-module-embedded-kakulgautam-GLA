@@ -38,6 +38,7 @@ void loop() {
 
     // TODO 6:
     // Read digital value from IR sensor
+    irState = digitalRead(IR_PIN);
 
     // TODO 7:
     // If obstacle detected
