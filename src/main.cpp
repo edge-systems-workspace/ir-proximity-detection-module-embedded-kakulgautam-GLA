@@ -16,6 +16,8 @@
 
  // TODO 2:
  // Create variable to store sensor state
+int irState = 0;
+
 
 void setup() {
 
